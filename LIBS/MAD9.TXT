@@ -1,8 +1,13 @@
 Noun
+  Tree
 Adjective
+  Smoking
 Animal
+  Dog
 Adjective
+  Pretty
 Adjective
+  Boring
 Noun
 Type of Container
 Noun
