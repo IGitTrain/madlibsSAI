@@ -1,11 +1,7 @@
 Noun
- Tree
 Adjective
- Blue
 Animal
- Dog
 Adjective
- Tall
 Adjective
 Noun
 Type of Container
