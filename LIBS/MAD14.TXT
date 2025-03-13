@@ -1,7 +1,7 @@
 Tariffs
 Adjective
 Animal
-donkey
+dog
 green
 Adjective
 Plural noun
@@ -9,7 +9,7 @@ Noun
 Adjective
 hat
 Noun
-Adjective
+blue
 Noun
 Plural noun
 Adjective
