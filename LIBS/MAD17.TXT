@@ -1,5 +1,5 @@
-Noun
-Adjective
+pig
+greasy
 Celebrity(Male)
 Celebrity(Male)
 Plural Noun
